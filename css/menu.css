@@ -116,7 +116,7 @@ header .text {
 header .text h1 {
   margin: 0 0 0 3px;
   /* font-weight: bold; */
-  font-size: 4rem;
+  font-size: 60px;
   color: #a98739;
   text-transform: uppercase;
   letter-spacing: 9px;
