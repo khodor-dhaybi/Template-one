@@ -260,7 +260,7 @@ main > * {
 }
 i {
   font-size: 2rem;
-  color: var(--secondery-color);
+  color: #2c4755a2;
 }
 .footer {
   background-color: #b6c4c7;
