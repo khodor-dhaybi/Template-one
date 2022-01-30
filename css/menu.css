@@ -115,10 +115,12 @@ header .text {
 }
 header .text h1 {
   margin: 0 0 0 3px;
-  font-size: 50px;
-  color: #a98739;
-  text-transform: uppercase;
-  letter-spacing: 8px;
+    font-size: 35px;
+    color: #0b034ec4;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-style: italic;
 }
 header .text p {
   line-height: 1.8;
@@ -126,7 +128,7 @@ header .text p {
   margin: 15px 0 15px;
   font-weight: bold;
   color: #364b5ea2;
-  max-width: 50%;
+  max-width: 85%;
   text-align: center;
 }
 .menu {
@@ -278,7 +280,7 @@ i {
   font-size: 30px;
   margin-top: 8px;
 }
-.footer i i{
+.wat i{
   color: #1ebe5b;
 }
 .our-footer{
