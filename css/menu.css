@@ -260,7 +260,7 @@ main > * {
 .icon {
   /* border: solid; */
   position: fixed;
-  bottom: 100px;
+  bottom: 80px;
   right: -20px;
 }
 i {
