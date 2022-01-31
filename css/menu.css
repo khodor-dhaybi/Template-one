@@ -115,7 +115,7 @@ header .text {
 }
 header .text h1 {
   margin: 0 0 0 3px;
-    font-size: 35px;
+    font-size: 40px;
     color: #c4811efa;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -151,10 +151,10 @@ header .text p {
   transition: all 0.2s ease-out;
 }
 .menu ul li a {
-  padding: 14px;
+  padding: 16px;
   text-decoration: none;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   text-decoration: none;
   color: #364b5e;
@@ -170,7 +170,7 @@ main > * {
 }
 
 .special-heading {
-  font-size: 48px;
+  font-size: 40px;
   color: #a98739;
   margin: 0;
   /* letter-spacing: -3px; */
@@ -232,43 +232,43 @@ main > * {
   object-fit: cover;
   margin-right: 8px;
 }
-.Crepe {
+.Breakfast {
   background-color: var(--color1);
 }
-.sajj {
+.Shakes {
   background-color: var(--color1);
 }
 .Salad {
   background-color: var(--color1);
 }
-.Mixologie {
+.Blend {
   background-color: var(--color1);
 }
-.Cold-drinks {
+.Hot-drinks {
   background-color: var(--color1);
 }
-.Desert {
+.Mashawi {
   background-color: var(--color1);
 }
-.Mokabilat-sakhina {
+.Shisha {
   background-color: var(--color1);
 }
-.salad-sharki {
+.Mokabilat-sahrki {
   background-color: var(--color1);
 }
 
 .icon {
   /* border: solid; */
   position: fixed;
-  bottom: 80px;
+  bottom: 50px;
   right: -20px;
 }
 i {
   font-size: 2rem;
-  color: #2c4755a2;
+  color: #0442618a;
 }
 .footer {
-  background-color: #b6c4c7;
+  background-color: #d8e9f0;
   color: #2b5881;
   padding: 15px 10px;
   text-align: center;
